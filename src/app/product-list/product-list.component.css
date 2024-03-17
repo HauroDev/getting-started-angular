@@ -1,0 +1,16 @@
+div {
+  border: 1px solid black;
+  margin-bottom: 2px;
+  padding: 1rem;
+  padding-top: 0.2rem;
+  border-radius: 30px;
+}
+p {
+  background-color: turquoise;
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
